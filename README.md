@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   2 hrs 15 mins   ████████████████████████░   96.07 % 
+YAML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 <!--END_SECTION:waka-->
