@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-Adroaldo%20Pagliari-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adroaldo-pagliari-5856363b/)](https://www.linkedin.com/in/adroaldo-pagliari-5856363b/)
+
 <!--
 **adroaldopagliari/adroaldopagliari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
