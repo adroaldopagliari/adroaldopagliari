@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   24 hrs 46 mins  ████████████████▓░░░░░░░░   66.95 % 
-Elixir       8 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.59 % 
-Other        3 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Bash         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+TypeScript   23 hrs 22 mins  ████████████████░░░░░░░░░   64.57 % 
+Elixir       7 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.27 % 
+Other        3 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+YAML         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Bash         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 <!--END_SECTION:waka-->
