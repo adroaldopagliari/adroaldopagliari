@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   6 mins          █████████████████░░░░░░░░   67.60 % 
-JSON         3 mins          ████████░░░░░░░░░░░░░░░░░   31.63 % 
+Other        26 mins         █████████████▓░░░░░░░░░░░   54.03 % 
+TypeScript   22 mins         ███████████▒░░░░░░░░░░░░░   45.97 % 
 ```
 <!--END_SECTION:waka-->
