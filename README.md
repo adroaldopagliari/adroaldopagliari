@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   7 hrs 5 mins    ████████████████████████░   96.41 % 
-Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-CSV          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+TypeScript   5 hrs 16 mins   ███████████████████████▒░   93.51 % 
+Bash         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+CSV          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 <!--END_SECTION:waka-->
