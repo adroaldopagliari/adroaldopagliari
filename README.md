@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   4 hrs 5 mins    █████████████████████░░░░   84.01 % 
-SQL          21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Bash         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Other        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+TypeScript   4 hrs 31 mins   ████████████████▓░░░░░░░░   66.00 % 
+Markdown     1 hr 31 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.29 % 
+SQL          21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Bash         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 <!--END_SECTION:waka-->
