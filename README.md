@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     2 hrs 38 mins   ██████████████▒░░░░░░░░░░   57.04 % 
-TypeScript   1 hr 58 mins    ██████████▓░░░░░░░░░░░░░░   42.56 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+TypeScript   2 hrs 48 mins   ████████████▒░░░░░░░░░░░░   49.01 % 
+Markdown     2 hrs 37 mins   ███████████▒░░░░░░░░░░░░░   45.66 % 
+Other        16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+CSV          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 <!--END_SECTION:waka-->
