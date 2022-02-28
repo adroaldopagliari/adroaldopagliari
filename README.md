@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   1 hr 17 mins    ███████████████████████░░   91.60 % 
-Bash         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+TypeScript   1 hr 17 mins    ███████████████████████░░   91.60 %
+Bash         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+GraphQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
+
 <!--END_SECTION:waka-->
