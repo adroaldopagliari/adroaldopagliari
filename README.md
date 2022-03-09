@@ -20,10 +20,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 59 mins    ████████████████████░░░░░   80.21 %
-Bash         23 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
-JavaScript   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   1 hr 45 mins    ████████████████████▒░░░░   81.84 %
+Bash         23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
 ```
 
 <!--END_SECTION:waka-->
